@@ -1,0 +1,410 @@
+Grouped,Nombre de produits vendus ensemble
+"iPhone,Lightning Charging Cable",444
+"Google Phone,USB-C Charging Cable",435
+"Lightning Charging Cable,iPhone",425
+"USB-C Charging Cable,Google Phone",405
+"iPhone,Wired Headphones",197
+"Wired Headphones,iPhone",171
+"Google Phone,Wired Headphones",162
+"iPhone,Apple Airpods Headphones",153
+"Vareebadd Phone,USB-C Charging Cable",153
+"USB-C Charging Cable,Vareebadd Phone",153
+"Wired Headphones,Google Phone",141
+"Apple Airpods Headphones,iPhone",133
+"Google Phone,Bose SoundSport Headphones",90
+"Bose SoundSport Headphones,Google Phone",78
+"Vareebadd Phone,Wired Headphones",58
+"Wired Headphones,Vareebadd Phone",52
+"Lightning Charging Cable,Lightning Charging Cable",51
+"Lightning Charging Cable,AA Batteries (4-pack)",51
+"USB-C Charging Cable,Wired Headphones",50
+"Wired Headphones,Apple Airpods Headphones",48
+"Wired Headphones,AA Batteries (4-pack)",48
+"Lightning Charging Cable,USB-C Charging Cable",48
+"AAA Batteries (4-pack),AA Batteries (4-pack)",48
+"AA Batteries (4-pack),Lightning Charging Cable",48
+"AAA Batteries (4-pack),USB-C Charging Cable",47
+"USB-C Charging Cable,Lightning Charging Cable",47
+"AAA Batteries (4-pack),AAA Batteries (4-pack)",46
+"USB-C Charging Cable,USB-C Charging Cable",45
+"USB-C Charging Cable,AAA Batteries (4-pack)",42
+"Wired Headphones,AAA Batteries (4-pack)",42
+"AAA Batteries (4-pack),Wired Headphones",42
+"AAA Batteries (4-pack),Lightning Charging Cable",41
+"Apple Airpods Headphones,AA Batteries (4-pack)",39
+"Apple Airpods Headphones,AAA Batteries (4-pack)",39
+"AA Batteries (4-pack),AAA Batteries (4-pack)",38
+"Lightning Charging Cable,AAA Batteries (4-pack)",38
+"USB-C Charging Cable,AA Batteries (4-pack)",38
+"Lightning Charging Cable,Wired Headphones",37
+"AA Batteries (4-pack),AA Batteries (4-pack)",35
+"Lightning Charging Cable,Bose SoundSport Headphones",35
+"AAA Batteries (4-pack),Apple Airpods Headphones",35
+"Apple Airpods Headphones,Lightning Charging Cable",35
+"Bose SoundSport Headphones,Vareebadd Phone",34
+"Wired Headphones,Wired Headphones",34
+"Lightning Charging Cable,Apple Airpods Headphones",33
+"AA Batteries (4-pack),USB-C Charging Cable",32
+"Wired Headphones,USB-C Charging Cable",32
+"Bose SoundSport Headphones,Lightning Charging Cable",32
+"Wired Headphones,Lightning Charging Cable",31
+"Apple Airpods Headphones,Bose SoundSport Headphones",30
+"Apple Airpods Headphones,USB-C Charging Cable",30
+"AA Batteries (4-pack),Wired Headphones",30
+"AA Batteries (4-pack),Apple Airpods Headphones",29
+"USB-C Charging Cable,Apple Airpods Headphones",29
+"AAA Batteries (4-pack),Bose SoundSport Headphones",28
+"Bose SoundSport Headphones,Bose SoundSport Headphones",27
+"Bose SoundSport Headphones,USB-C Charging Cable",27
+"Bose SoundSport Headphones,AAA Batteries (4-pack)",27
+"Bose SoundSport Headphones,AA Batteries (4-pack)",26
+"AA Batteries (4-pack),Bose SoundSport Headphones",25
+"Wired Headphones,Bose SoundSport Headphones",24
+"Vareebadd Phone,Bose SoundSport Headphones",24
+"USB-C Charging Cable,Bose SoundSport Headphones",24
+"Apple Airpods Headphones,Apple Airpods Headphones",23
+"27in FHD Monitor,USB-C Charging Cable",23
+"Apple Airpods Headphones,Wired Headphones",22
+"AAA Batteries (4-pack),27in FHD Monitor",22
+"Bose SoundSport Headphones,Wired Headphones",21
+"Lightning Charging Cable,27in 4K Gaming Monitor",20
+"27in FHD Monitor,Lightning Charging Cable",20
+"Bose SoundSport Headphones,27in FHD Monitor",20
+"27in 4K Gaming Monitor,AAA Batteries (4-pack)",19
+"27in FHD Monitor,AAA Batteries (4-pack)",18
+"USB-C Charging Cable,27in FHD Monitor",18
+"AA Batteries (4-pack),iPhone",18
+"34in Ultrawide Monitor,Lightning Charging Cable",18
+"27in 4K Gaming Monitor,AA Batteries (4-pack)",18
+"Bose SoundSport Headphones,Apple Airpods Headphones",18
+"AA Batteries (4-pack),34in Ultrawide Monitor",17
+"Wired Headphones,34in Ultrawide Monitor",17
+"USB-C Charging Cable,Google Phone,Wired Headphones",17
+"Wired Headphones,USB-C Charging Cable,Google Phone",17
+"Lightning Charging Cable,27in FHD Monitor",16
+"AAA Batteries (4-pack),34in Ultrawide Monitor",15
+"27in 4K Gaming Monitor,USB-C Charging Cable",15
+"Wired Headphones,Lightning Charging Cable,iPhone",15
+"AAA Batteries (4-pack),ThinkPad Laptop",15
+"Google Phone,Lightning Charging Cable",15
+"iPhone,USB-C Charging Cable",15
+"34in Ultrawide Monitor,AA Batteries (4-pack)",15
+"Macbook Pro Laptop,Lightning Charging Cable",14
+"34in Ultrawide Monitor,USB-C Charging Cable",14
+"Wired Headphones,27in 4K Gaming Monitor",14
+"AAA Batteries (4-pack),iPhone",14
+"AA Batteries (4-pack),27in FHD Monitor",14
+"Apple Airpods Headphones,27in 4K Gaming Monitor",14
+"Apple Airpods Headphones,27in FHD Monitor",13
+"Lightning Charging Cable,20in Monitor",13
+"Macbook Pro Laptop,Wired Headphones",13
+"USB-C Charging Cable,20in Monitor",13
+"Lightning Charging Cable,34in Ultrawide Monitor",13
+"20in Monitor,USB-C Charging Cable",12
+"AAA Batteries (4-pack),Google Phone",12
+"AA Batteries (4-pack),Google Phone",12
+"27in 4K Gaming Monitor,Wired Headphones",12
+"Wired Headphones,Google Phone,USB-C Charging Cable",12
+"27in FHD Monitor,AA Batteries (4-pack)",12
+"ThinkPad Laptop,AAA Batteries (4-pack)",12
+"USB-C Charging Cable,Wired Headphones,Google Phone",12
+"20in Monitor,Lightning Charging Cable",11
+"iPhone,AAA Batteries (4-pack)",11
+"USB-C Charging Cable,34in Ultrawide Monitor",11
+"27in FHD Monitor,Wired Headphones",11
+"34in Ultrawide Monitor,Wired Headphones",11
+"Bose SoundSport Headphones,34in Ultrawide Monitor",11
+"Lightning Charging Cable,ThinkPad Laptop",11
+"27in FHD Monitor,Apple Airpods Headphones",11
+"27in 4K Gaming Monitor,Lightning Charging Cable",11
+"Apple Airpods Headphones,iPhone,Lightning Charging Cable",11
+"Apple Airpods Headphones,Macbook Pro Laptop",10
+"20in Monitor,AA Batteries (4-pack)",10
+"Lightning Charging Cable,Wired Headphones,iPhone",10
+"Apple Airpods Headphones,Lightning Charging Cable,iPhone",10
+"Google Phone,USB-C Charging Cable,Wired Headphones",10
+"Macbook Pro Laptop,USB-C Charging Cable",10
+"ThinkPad Laptop,USB-C Charging Cable",10
+"USB-C Charging Cable,ThinkPad Laptop",10
+"ThinkPad Laptop,AA Batteries (4-pack)",10
+"Wired Headphones,20in Monitor",10
+"AA Batteries (4-pack),Flatscreen TV",10
+"Google Phone,Apple Airpods Headphones",10
+"AA Batteries (4-pack),Macbook Pro Laptop",10
+"Apple Airpods Headphones,ThinkPad Laptop",10
+"AAA Batteries (4-pack),27in 4K Gaming Monitor",10
+"AAA Batteries (4-pack),Flatscreen TV",10
+"Wired Headphones,27in FHD Monitor",10
+"Flatscreen TV,Lightning Charging Cable",10
+"iPhone,AA Batteries (4-pack)",10
+"Flatscreen TV,AAA Batteries (4-pack)",10
+"Flatscreen TV,AA Batteries (4-pack)",10
+"Flatscreen TV,USB-C Charging Cable",9
+"Lightning Charging Cable,Flatscreen TV",9
+"Wired Headphones,ThinkPad Laptop",9
+"Google Phone,USB-C Charging Cable,Bose SoundSport Headphones",9
+"Lightning Charging Cable,Google Phone",9
+"Flatscreen TV,Apple Airpods Headphones",9
+"Lightning Charging Cable,iPhone,Wired Headphones",9
+"27in 4K Gaming Monitor,Bose SoundSport Headphones",9
+"USB-C Charging Cable,Google Phone,Bose SoundSport Headphones",9
+"34in Ultrawide Monitor,AAA Batteries (4-pack)",9
+"27in FHD Monitor,27in FHD Monitor",9
+"AAA Batteries (4-pack),Macbook Pro Laptop",9
+"Vareebadd Phone,USB-C Charging Cable,Wired Headphones",9
+"USB-C Charging Cable,iPhone",9
+"Bose SoundSport Headphones,27in 4K Gaming Monitor",9
+"Macbook Pro Laptop,Bose SoundSport Headphones",8
+"Macbook Pro Laptop,AAA Batteries (4-pack)",8
+"20in Monitor,Wired Headphones",8
+"USB-C Charging Cable,Macbook Pro Laptop",8
+"iPhone,Lightning Charging Cable,Wired Headphones",8
+"34in Ultrawide Monitor,iPhone",8
+"Google Phone,AA Batteries (4-pack)",8
+"20in Monitor,Bose SoundSport Headphones",8
+"USB-C Charging Cable,Flatscreen TV",8
+"34in Ultrawide Monitor,Apple Airpods Headphones",8
+"Bose SoundSport Headphones,iPhone",7
+"Wired Headphones,iPhone,Lightning Charging Cable",7
+"AA Batteries (4-pack),27in 4K Gaming Monitor",7
+"Apple Airpods Headphones,Google Phone",7
+"Google Phone,AAA Batteries (4-pack)",7
+"Lightning Charging Cable,Macbook Pro Laptop",7
+"AA Batteries (4-pack),ThinkPad Laptop",7
+"ThinkPad Laptop,Lightning Charging Cable",7
+"Macbook Pro Laptop,AA Batteries (4-pack)",7
+"Bose SoundSport Headphones,Macbook Pro Laptop",7
+"Bose SoundSport Headphones,ThinkPad Laptop",7
+"Flatscreen TV,Wired Headphones",7
+"34in Ultrawide Monitor,34in Ultrawide Monitor",7
+"Bose SoundSport Headphones,20in Monitor",7
+"Google Phone,Wired Headphones,USB-C Charging Cable",7
+"Apple Airpods Headphones,20in Monitor",7
+"27in 4K Gaming Monitor,Apple Airpods Headphones",7
+"Macbook Pro Laptop,27in 4K Gaming Monitor",7
+"Macbook Pro Laptop,Apple Airpods Headphones",6
+"Bose SoundSport Headphones,Flatscreen TV",6
+"27in FHD Monitor,34in Ultrawide Monitor",6
+"Bose SoundSport Headphones,USB-C Charging Cable,Google Phone",6
+"Vareebadd Phone,Wired Headphones,USB-C Charging Cable",6
+"Vareebadd Phone,AA Batteries (4-pack)",6
+"ThinkPad Laptop,Apple Airpods Headphones",6
+"27in 4K Gaming Monitor,iPhone",6
+"USB-C Charging Cable,27in 4K Gaming Monitor",6
+"Flatscreen TV,Flatscreen TV",6
+"iPhone,Lightning Charging Cable,Apple Airpods Headphones",6
+"Flatscreen TV,iPhone",6
+"ThinkPad Laptop,Bose SoundSport Headphones",5
+"Flatscreen TV,Bose SoundSport Headphones",5
+"Bose SoundSport Headphones,USB-C Charging Cable,Vareebadd Phone",5
+"Apple Airpods Headphones,Wired Headphones,iPhone",5
+"27in FHD Monitor,Bose SoundSport Headphones",5
+"Wired Headphones,Macbook Pro Laptop",5
+"20in Monitor,AAA Batteries (4-pack)",5
+"27in 4K Gaming Monitor,27in FHD Monitor",5
+"iPhone,ThinkPad Laptop",5
+"LG Dryer,AA Batteries (4-pack)",5
+"27in 4K Gaming Monitor,27in 4K Gaming Monitor",5
+"Macbook Pro Laptop,27in FHD Monitor",5
+"Vareebadd Phone,Apple Airpods Headphones",5
+"AA Batteries (4-pack),Vareebadd Phone",5
+"Flatscreen TV,27in 4K Gaming Monitor",5
+"AA Batteries (4-pack),20in Monitor",5
+"Wired Headphones,iPhone,Apple Airpods Headphones",5
+"27in 4K Gaming Monitor,Macbook Pro Laptop",5
+"iPhone,Wired Headphones,Lightning Charging Cable",5
+"Google Phone,Wired Headphones,Bose SoundSport Headphones",5
+"Apple Airpods Headphones,34in Ultrawide Monitor",5
+"ThinkPad Laptop,Wired Headphones",5
+"iPhone,Apple Airpods Headphones,Lightning Charging Cable",5
+"AAA Batteries (4-pack),20in Monitor",5
+"20in Monitor,Apple Airpods Headphones",5
+"27in 4K Gaming Monitor,34in Ultrawide Monitor",4
+"Lightning Charging Cable,Apple Airpods Headphones,iPhone",4
+"Macbook Pro Laptop,34in Ultrawide Monitor",4
+"Wired Headphones,Bose SoundSport Headphones,Google Phone",4
+"27in 4K Gaming Monitor,Google Phone",4
+"Vareebadd Phone,34in Ultrawide Monitor",4
+"Wired Headphones,Apple Airpods Headphones,iPhone",4
+"Macbook Pro Laptop,Google Phone",4
+"LG Washing Machine,Lightning Charging Cable",4
+"iPhone,Apple Airpods Headphones,Wired Headphones",4
+"AAA Batteries (4-pack),Vareebadd Phone",4
+"iPhone,Bose SoundSport Headphones",4
+"Flatscreen TV,34in Ultrawide Monitor",4
+"Flatscreen TV,27in FHD Monitor",4
+"iPhone,34in Ultrawide Monitor",4
+"ThinkPad Laptop,Flatscreen TV",4
+"Google Phone,Bose SoundSport Headphones,Wired Headphones",4
+"Apple Airpods Headphones,Flatscreen TV",4
+"Google Phone,ThinkPad Laptop",4
+"34in Ultrawide Monitor,Bose SoundSport Headphones",4
+"Wired Headphones,Vareebadd Phone,USB-C Charging Cable",4
+"Macbook Pro Laptop,20in Monitor",4
+"ThinkPad Laptop,34in Ultrawide Monitor",4
+"34in Ultrawide Monitor,27in FHD Monitor",4
+"ThinkPad Laptop,27in FHD Monitor",4
+"iPhone,Macbook Pro Laptop",4
+"Wired Headphones,USB-C Charging Cable,Vareebadd Phone",4
+"USB-C Charging Cable,Wired Headphones,Vareebadd Phone",4
+"Apple Airpods Headphones,Vareebadd Phone",4
+"Bose SoundSport Headphones,Google Phone,USB-C Charging Cable",4
+"USB-C Charging Cable,Bose SoundSport Headphones,Google Phone",3
+"USB-C Charging Cable,Vareebadd Phone,Wired Headphones",3
+"Vareebadd Phone,iPhone",3
+"Vareebadd Phone,Google Phone",3
+"20in Monitor,20in Monitor",3
+"Lightning Charging Cable,iPhone,Apple Airpods Headphones",3
+"Google Phone,Google Phone",3
+"27in 4K Gaming Monitor,ThinkPad Laptop",3
+"27in FHD Monitor,27in 4K Gaming Monitor",3
+"34in Ultrawide Monitor,Flatscreen TV",3
+"34in Ultrawide Monitor,Google Phone",3
+"34in Ultrawide Monitor,Macbook Pro Laptop",3
+"iPhone,Google Phone",3
+"iPhone,Flatscreen TV",3
+"Apple Airpods Headphones,iPhone,Wired Headphones",3
+"Bose SoundSport Headphones,Google Phone,Wired Headphones",3
+"Flatscreen TV,Google Phone",3
+"Google Phone,20in Monitor",3
+"Google Phone,27in FHD Monitor",3
+"Bose SoundSport Headphones,Vareebadd Phone,USB-C Charging Cable",3
+"Wired Headphones,LG Washing Machine",3
+"Wired Headphones,Google Phone,Bose SoundSport Headphones",3
+"Google Phone,iPhone",3
+"Wired Headphones,Flatscreen TV",3
+"Macbook Pro Laptop,iPhone",2
+"Lightning Charging Cable,Lightning Charging Cable,iPhone",2
+"Macbook Pro Laptop,Flatscreen TV",2
+"Lightning Charging Cable,LG Dryer",2
+"Lightning Charging Cable,LG Washing Machine",2
+"34in Ultrawide Monitor,27in 4K Gaming Monitor",2
+"27in FHD Monitor,ThinkPad Laptop",2
+"27in FHD Monitor,Macbook Pro Laptop",2
+"27in FHD Monitor,LG Dryer",2
+"27in FHD Monitor,Google Phone",2
+"27in FHD Monitor,20in Monitor",2
+"Apple Airpods Headphones,LG Dryer",2
+"27in 4K Gaming Monitor,LG Dryer",2
+"27in 4K Gaming Monitor,20in Monitor",2
+"Vareebadd Phone,AAA Batteries (4-pack)",2
+"20in Monitor,Macbook Pro Laptop",2
+"20in Monitor,LG Washing Machine",2
+"Vareebadd Phone,Bose SoundSport Headphones,USB-C Charging Cable",2
+"Vareebadd Phone,Flatscreen TV",2
+"20in Monitor,34in Ultrawide Monitor",2
+"Vareebadd Phone,USB-C Charging Cable,Bose SoundSport Headphones",2
+"AAA Batteries (4-pack),LG Washing Machine",2
+"AAA Batteries (4-pack),Apple Airpods Headphones,iPhone",2
+"Macbook Pro Laptop,LG Washing Machine",2
+"Flatscreen TV,Macbook Pro Laptop",2
+"ThinkPad Laptop,27in 4K Gaming Monitor",2
+"20in Monitor,27in FHD Monitor",2
+"Google Phone,Macbook Pro Laptop",2
+"iPhone,20in Monitor",2
+"LG Washing Machine,AAA Batteries (4-pack)",2
+"ThinkPad Laptop,Macbook Pro Laptop",2
+"ThinkPad Laptop,ThinkPad Laptop",2
+"Google Phone,27in 4K Gaming Monitor",2
+"Macbook Pro Laptop,ThinkPad Laptop",2
+"Flatscreen TV,ThinkPad Laptop",2
+"iPhone,27in 4K Gaming Monitor",2
+"Macbook Pro Laptop,Macbook Pro Laptop",2
+"Bose SoundSport Headphones,Wired Headphones,Google Phone",2
+"Vareebadd Phone,Lightning Charging Cable",2
+"Flatscreen TV,20in Monitor",2
+"Vareebadd Phone,iPhone,USB-C Charging Cable",1
+"iPhone,Wired Headphones,Apple Airpods Headphones",1
+"Vareebadd Phone,USB-C Charging Cable,Apple Airpods Headphones",1
+"Wired Headphones,Lightning Charging Cable,Apple Airpods Headphones,iPhone",1
+"Wired Headphones,Vareebadd Phone,Bose SoundSport Headphones",1
+"Wired Headphones,Bose SoundSport Headphones,USB-C Charging Cable,Vareebadd Phone",1
+"Wired Headphones,AA Batteries (4-pack),Google Phone",1
+"Wired Headphones,iPhone,Apple Airpods Headphones,Lightning Charging Cable",1
+"Wired Headphones,iPhone,Lightning Charging Cable,Google Phone,Apple Airpods Headphones",1
+"Wired Headphones,iPhone,USB-C Charging Cable,Google Phone",1
+"Wired Headphones,Vareebadd Phone,Apple Airpods Headphones",1
+"Wired Headphones,AA Batteries (4-pack),USB-C Charging Cable,Google Phone",1
+"iPhone,Lightning Charging Cable,iPhone",1
+"Wired Headphones,27in 4K Gaming Monitor,Vareebadd Phone",1
+"iPhone,Lightning Charging Cable,27in 4K Gaming Monitor",1
+"iPhone,Lightning Charging Cable,AA Batteries (4-pack)",1
+"iPhone,Vareebadd Phone,Wired Headphones",1
+"iPhone,Vareebadd Phone",1
+"iPhone,Apple Airpods Headphones,Lightning Charging Cable,Wired Headphones",1
+"iPhone,LG Washing Machine",1
+"Google Phone,Vareebadd Phone",1
+"Vareebadd Phone,ThinkPad Laptop",1
+"AAA Batteries (4-pack),USB-C Charging Cable,Google Phone",1
+"Apple Airpods Headphones,Bose SoundSport Headphones,Google Phone",1
+"Bose SoundSport Headphones,Apple Airpods Headphones,iPhone",1
+"Bose SoundSport Headphones,LG Washing Machine",1
+"Bose SoundSport Headphones,Wired Headphones,Vareebadd Phone",1
+"Flatscreen TV,LG Dryer",1
+"Flatscreen TV,Vareebadd Phone,Bose SoundSport Headphones",1
+"Flatscreen TV,iPhone,Lightning Charging Cable",1
+"Google Phone,34in Ultrawide Monitor",1
+"Google Phone,Bose SoundSport Headphones,Lightning Charging Cable",1
+"Google Phone,Bose SoundSport Headphones,USB-C Charging Cable",1
+"Google Phone,Bose SoundSport Headphones,Wired Headphones,USB-C Charging Cable",1
+"Google Phone,Flatscreen TV",1
+"Google Phone,LG Dryer",1
+"Google Phone,LG Washing Machine",1
+"Google Phone,USB-C Charging Cable,27in FHD Monitor",1
+"AAA Batteries (4-pack),iPhone,Apple Airpods Headphones",1
+"AAA Batteries (4-pack),LG Dryer",1
+"Vareebadd Phone,LG Dryer",1
+"AAA Batteries (4-pack),Google Phone,USB-C Charging Cable",1
+"20in Monitor,Google Phone",1
+"20in Monitor,ThinkPad Laptop",1
+"27in 4K Gaming Monitor,Vareebadd Phone",1
+"27in FHD Monitor,Bose SoundSport Headphones,Google Phone",1
+"27in FHD Monitor,Flatscreen TV",1
+"27in FHD Monitor,LG Washing Machine",1
+"27in FHD Monitor,Vareebadd Phone",1
+"27in FHD Monitor,Wired Headphones,USB-C Charging Cable,Google Phone",1
+"27in FHD Monitor,iPhone",1
+"34in Ultrawide Monitor,USB-C Charging Cable,Bose SoundSport Headphones,Google Phone",1
+"AA Batteries (4-pack),Google Phone,USB-C Charging Cable",1
+"AA Batteries (4-pack),LG Dryer",1
+"AA Batteries (4-pack),LG Washing Machine",1
+"AA Batteries (4-pack),Lightning Charging Cable,iPhone",1
+"AA Batteries (4-pack),Wired Headphones,Lightning Charging Cable,iPhone",1
+"Google Phone,USB-C Charging Cable,AAA Batteries (4-pack)",1
+"Google Phone,Wired Headphones,Macbook Pro Laptop",1
+"Google Phone,Wired Headphones,USB-C Charging Cable,Apple Airpods Headphones",1
+"LG Dryer,AAA Batteries (4-pack)",1
+"ThinkPad Laptop,Vareebadd Phone",1
+"ThinkPad Laptop,iPhone",1
+"USB-C Charging Cable,AA Batteries (4-pack),Google Phone",1
+"USB-C Charging Cable,Apple Airpods Headphones,Google Phone",1
+"USB-C Charging Cable,Bose SoundSport Headphones,Google Phone,Wired Headphones",1
+"USB-C Charging Cable,Bose SoundSport Headphones,Vareebadd Phone",1
+"USB-C Charging Cable,Google Phone,USB-C Charging Cable",1
+"USB-C Charging Cable,LG Dryer",1
+"USB-C Charging Cable,Lightning Charging Cable,iPhone",1
+"USB-C Charging Cable,Vareebadd Phone,Bose SoundSport Headphones,Wired Headphones",1
+"USB-C Charging Cable,Wired Headphones,Google Phone,Wired Headphones",1
+"USB-C Charging Cable,iPhone,Lightning Charging Cable",1
+"Vareebadd Phone,27in 4K Gaming Monitor",1
+"Vareebadd Phone,27in FHD Monitor",1
+"Vareebadd Phone,Google Phone,USB-C Charging Cable",1
+"ThinkPad Laptop,Google Phone",1
+"ThinkPad Laptop,20in Monitor",1
+"Lightning Charging Cable,iPhone,Vareebadd Phone",1
+"LG Washing Machine,Apple Airpods Headphones",1
+"LG Dryer,Apple Airpods Headphones",1
+"LG Dryer,Lightning Charging Cable",1
+"LG Dryer,ThinkPad Laptop",1
+"LG Dryer,Wired Headphones",1
+"LG Washing Machine,27in 4K Gaming Monitor",1
+"LG Washing Machine,34in Ultrawide Monitor",1
+"LG Washing Machine,Bose SoundSport Headphones",1
+"Lightning Charging Cable,iPhone,34in Ultrawide Monitor",1
+"LG Washing Machine,Wired Headphones",1
+"LG Washing Machine,iPhone",1
+"Lightning Charging Cable,Google Phone,iPhone",1
+"Lightning Charging Cable,USB-C Charging Cable,Google Phone",1
+"Lightning Charging Cable,Vareebadd Phone",1
+"Lightning Charging Cable,Wired Headphones,iPhone,USB-C Charging Cable",1
+"iPhone,iPhone",1

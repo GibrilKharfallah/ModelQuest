@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_de6ca29e1e62159d28cf3cfe1df62f92 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_de6ca29e1e62159d28cf3cfe1df62f92" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_de6ca29e1e62159d28cf3cfe1df62f92 = L.map(
+                "map_de6ca29e1e62159d28cf3cfe1df62f92",
+                {
+                    center: [37.7792588, -122.4193286],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_56d48882e53c3ed805bc83c28f047ad5 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_56d48882e53c3ed805bc83c28f047ad5.addTo(map_de6ca29e1e62159d28cf3cfe1df62f92);
+        
+    
+            var marker_0746f5194db3fb7a9f4843397940b20f = L.marker(
+                [37.7792588, -122.4193286],
+                {}
+            ).addTo(map_de6ca29e1e62159d28cf3cfe1df62f92);
+        
+    
+            var icon_fc815b70d988f8c46304d7254a34b14b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_0746f5194db3fb7a9f4843397940b20f.setIcon(icon_fc815b70d988f8c46304d7254a34b14b);
+        
+    
+        var popup_b506ee4078bc643460792cc1546214f7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b02fde3452349a3197b32b1ce3c980c3 = $(`<div id="html_b02fde3452349a3197b32b1ce3c980c3" style="width: 100.0%; height: 100.0%;">San Francisco - 49363 ventes - 8124120.94 $</div>`)[0];
+                popup_b506ee4078bc643460792cc1546214f7.setContent(html_b02fde3452349a3197b32b1ce3c980c3);
+            
+        
+
+        marker_0746f5194db3fb7a9f4843397940b20f.bindPopup(popup_b506ee4078bc643460792cc1546214f7)
+        ;
+
+        
+    
+    
+            var marker_426e4b23e187d126a2764c0f971f7c81 = L.marker(
+                [30.2711286, -97.7436995],
+                {}
+            ).addTo(map_de6ca29e1e62159d28cf3cfe1df62f92);
+        
+    
+            var icon_bb5ca98c3c0744cf8aebc1b3f5efdb39 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_426e4b23e187d126a2764c0f971f7c81.setIcon(icon_bb5ca98c3c0744cf8aebc1b3f5efdb39);
+        
+    
+        var popup_75ee362b0d95c39ed3324de4b1b89245 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_42e3e0f94c3b86a456cfd232e0482471 = $(`<div id="html_42e3e0f94c3b86a456cfd232e0482471" style="width: 100.0%; height: 100.0%;">Austin - 10933 ventes - 1786745.52 $</div>`)[0];
+                popup_75ee362b0d95c39ed3324de4b1b89245.setContent(html_42e3e0f94c3b86a456cfd232e0482471);
+            
+        
+
+        marker_426e4b23e187d126a2764c0f971f7c81.bindPopup(popup_75ee362b0d95c39ed3324de4b1b89245)
+        ;
+
+        
+    
+</script>
+</html>
