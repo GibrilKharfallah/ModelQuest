@@ -1,6 +1,6 @@
-# Supervised Learning Project
+# 📈 ModelQuest : A Supervised Learning Project
 
-This notebook demonstrates a complete machine learning pipeline using **supervised learning** techniques in Python, leveraging the `scikit-learn` library.
+ModelQuest is a complete machine learning pipeline using **supervised learning** techniques in Python, leveraging the `scikit-learn` library.
 
 ## 📘 Project Overview
 
